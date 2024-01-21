@@ -5,6 +5,8 @@
 
 A robust boilerplate for building Node.js applications with TypeScript, Express.js, and MongoDB. This project provides a solid foundation for backend development, featuring a clean project structure and integration with MongoDB for seamless data storage. The use of TypeScript ensures type safety throughout the codebase.
 
+**Simple user Auth has also been implemented using jwt performing signup/login/**
+
 **Key Features:**
 - **TypeScript**: Enjoy the benefits of static typing for enhanced code quality and maintainability.
 - **Express.js**: A fast, unopinionated, minimalist web framework for Node.js, perfect for building RESTful APIs.
